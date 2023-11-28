@@ -14,8 +14,6 @@ public class Inicial extends Application {
         //passa para o metodo start ser o metodo inicial
         launch(args);
 
-
-
     }
 
     @Override
